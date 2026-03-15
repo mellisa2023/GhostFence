@@ -1,0 +1,16 @@
+HOW IT WORKS 
+Ambient Signals
+    ↓
+Motion Detection Engine
+    ↓
+Sensor Event Layer
+    ↓
+Authorized Device Presence
+    ↓
+Signal Fusion Engine
+    ↓
+Intrusion Confidence Score
+    ↓
+Monitoring Dashboard
+    ↓
+Reports + Alerts
