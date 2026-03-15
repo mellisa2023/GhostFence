@@ -1,5 +1,7 @@
 # GhostFence
 A prototype farming security system that detects potential farm intrusions using ambient multisignal inferences. 
+
+
 Overview
 Ghost Fence is an AI security system that sees, thinks and calls. The system fuses multiple signals such as motion detection, smart sensor events, and authorized device presence to infer possible human activity and generate alerts that will help farmers to monitor their farm zones and alert security/police in incidents of unauthorized intrusion,
 
