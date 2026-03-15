@@ -8,6 +8,8 @@ Praedial Larceny is a major issue in Jamaica. Theft of agriculture produce, live
 
 GhostFence demostrates a low cost sensing architecture that can deter theives at the mention of advance or emerging technology and asist in monitoring late night unusal activities in farming zones. 
 
+The system generates alerts, reports and monitoring dashboards to help farmers indentify potential intrusion on farm lands as most farmers do not live in farming zones and often discover theft when they visit next day.
+
 
 Other Use Cases: 
 Use Cases:
