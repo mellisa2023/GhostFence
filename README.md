@@ -2,6 +2,31 @@
 A prototype farming security system that detects potential farm intrusions using ambient multisignal inferences. 
 Workspace
 Overview
+Ghost Fence is an AI security system that sees, thinks and calls. The system fuses multiple signals such as motion detection, smart sensor events, and authorized device presence to infer possible human activity and generate alerts that will help farmers to monitor their farm zones and alert security/police in incidents of unauthorized intrusion . 
+
+Other Use Cases: 
+Use Cases:
+1. Residential Home Security
+Homeowner is at work. Someone enters the yard. GhostFence calls: "One male in dark clothing near your back fence at 2:15 PM. Are you expecting anyone?" Owner says no → security dispatched.
+2. JDF Military Base Protection
+RF sensing monitors restricted zones 24/7 without cameras. Unauthorized movement triggers a call to the duty officer with location and description. Works through walls, in darkness, in rain.
+3. School Campus After Hours
+Schools can't afford 24/7 guards. GhostFence monitors the perimeter after hours. Movement detected → principal gets a call. Reduces break-ins and vandalism.
+4. Elderly Care / Living Alone
+Flip the script — instead of detecting intruders, detect the absence of movement. If an elderly person hasn't moved in hours, GhostFence calls a family member: "No activity detected since 9 AM. Would you like us to send someone to check?"
+5. Construction Site Theft Prevention
+Construction sites lose millions to equipment theft at night. GhostFence monitors the site. Unauthorized person detected → site manager gets a call with full description.
+6. Warehouse and Storage Facility
+Large spaces with blind spots. RF sensing covers the entire floor without cameras. Movement in restricted zones after hours triggers a voice alert to security.
+7. Farm and Agricultural Land
+Praedial larceny is a massive problem in Jamaica. GhostFence monitors farm perimeters. Unauthorized person near the crops at night → farmer gets a call.
+8. Post-Hurricane Disaster Response (StormWatch Mode)
+After a hurricane, GhostFence switches to rescue mode. Camera assesses building damage. RF detects people inside collapsed structures. Calls rescue coordinators: "Building 4 shows 3 human signatures. Structural damage detected. Priority search recommended."
+9. Small Business After Hours
+Shop owner closes at 6 PM. GhostFence arms automatically. Movement inside the shop at 2 AM → owner gets a call. No monthly security contract needed.
+10. Gated Community Perimeter
+One system monitors the entire community fence line. Any breach → the community security team gets a call with the exact zone and description.
+
 pnpm workspace monorepo using TypeScript. Each package manages its own dependencies.
 
 Ghost Fence AI (GhostScan AI)
